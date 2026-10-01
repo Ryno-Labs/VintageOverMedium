@@ -1,0 +1,571 @@
+{
+  "demoMode": true,
+  "retailers": {
+    "retro-stage": {
+      "name": "Retro Stage",
+      "network": "Direct / in-house",
+      "demoRate": 0.16,
+      "cookieDays": 30
+    },
+    "unique-vintage": {
+      "name": "Unique Vintage",
+      "network": "Impact",
+      "demoRate": 0.06,
+      "cookieDays": 15
+    },
+    "eshakti": {
+      "name": "eShakti",
+      "network": "CJ / FlexOffers",
+      "demoRate": 0.08,
+      "cookieDays": 7
+    },
+    "lindy-bop": {
+      "name": "Lindy Bop",
+      "network": "FlexOffers",
+      "demoRate": 0.064,
+      "cookieDays": 30
+    },
+    "amazon": {
+      "name": "Amazon",
+      "network": "Amazon Associates",
+      "demoRate": 0.04,
+      "cookieDays": 1
+    }
+  },
+  "products": [
+    {
+      "id": "velvet-sweetheart-midi",
+      "name": "Velvet Sweetheart Midi",
+      "retailer": "unique-vintage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 98,
+      "why": "Soft stretch velvet and a waist seam that gives without losing shape.",
+      "image": "/assets/products/velvet-sweetheart-midi.webp",
+      "pages": [
+        "home",
+        "special-event"
+      ],
+      "sections": [
+        "special-event:velvet",
+        "special-event:versatile"
+      ],
+      "url": "https://unique-vintage.sjv.io/DEMO-VOM?u=https%3A%2F%2Fwww.unique-vintage.com%2Fproducts%2FDEMO-velvet%2Dsweetheart%2Dmidi&subid1=vom-DEMO-PAGE"
+    },
+    {
+      "id": "plaid-swing",
+      "name": "Plaid Swing Dress",
+      "retailer": "lindy-bop",
+      "era": "1950s",
+      "sizeTag": "Sizes to 6XL",
+      "demoPrice": 55,
+      "why": "Bold plaid with enough stretch for dinners, parties, and dancing.",
+      "image": "/assets/products/plaid-swing.webp",
+      "pages": [
+        "home",
+        "special-event"
+      ],
+      "sections": [
+        "special-event:statement",
+        "special-event:under75"
+      ],
+      "url": "https://track.flexlinkspro.com/g.ashx?foid=DEMO&trid=DEMO-VOM&foc=16&fot=9999&fos=DEMO-PAGE&url=https%3A%2F%2Fwww.lindybop.co.uk%2FDEMO-plaid%2Dswing"
+    },
+    {
+      "id": "red-bow-swing",
+      "name": "Red Bow-Neck Swing Dress",
+      "retailer": "unique-vintage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 68,
+      "why": "A defined waist, easy skirt, and a neckline that does the styling for you.",
+      "image": "/assets/products/red-bow-swing.webp",
+      "pages": [
+        "home",
+        "special-event"
+      ],
+      "sections": [
+        "special-event:statement",
+        "special-event:versatile",
+        "special-event:under75"
+      ],
+      "url": "https://unique-vintage.sjv.io/DEMO-VOM?u=https%3A%2F%2Fwww.unique-vintage.com%2Fproducts%2FDEMO-red%2Dbow%2Dswing&subid1=vom-DEMO-PAGE"
+    },
+    {
+      "id": "midnight-velvet-wrap",
+      "name": "Midnight Velvet Wrap Dress",
+      "retailer": "eshakti",
+      "era": "1940s",
+      "sizeTag": "Sizes 0–36W",
+      "demoPrice": 92,
+      "why": "The wrap shape adjusts at the waist and keeps the neckline polished.",
+      "image": "/assets/products/midnight-velvet-wrap.webp",
+      "pages": [
+        "special-event"
+      ],
+      "sections": [
+        "special-event:velvet",
+        "special-event:versatile"
+      ],
+      "url": "https://www.anrdoezrs.net/click-DEMO-VOM?url=https%3A%2F%2Fwww.eshakti.com%2FDEMO-midnight%2Dvelvet%2Dwrap&sid=vom-DEMO-PAGE"
+    },
+    {
+      "id": "sequin-starlet-midi",
+      "name": "Sequin Starlet Midi",
+      "retailer": "retro-stage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 118,
+      "why": "All-over sparkle with a full skirt that keeps the fit easy through the hips.",
+      "image": "/assets/products/sequin-starlet-midi.webp",
+      "pages": [
+        "special-event"
+      ],
+      "sections": [
+        "special-event:sparkle"
+      ],
+      "url": "https://www.retro-stage.com/products/DEMO-sequin-starlet-midi?ref=DEMO-VOM&utm_source=vintageovermedium&utm_medium=affiliate&utm_campaign=DEMO-PAGE"
+    },
+    {
+      "id": "champagne-sequin-swing",
+      "name": "Champagne Sequin Swing Dress",
+      "retailer": "lindy-bop",
+      "era": "1950s",
+      "sizeTag": "Sizes to 5XL",
+      "demoPrice": 72,
+      "why": "Party shine without a bodycon fit, plus room to move through dinner.",
+      "image": "/assets/products/champagne-sequin-swing.webp",
+      "pages": [
+        "special-event"
+      ],
+      "sections": [
+        "special-event:sparkle",
+        "special-event:under75"
+      ],
+      "url": "https://track.flexlinkspro.com/g.ashx?foid=DEMO&trid=DEMO-VOM&foc=16&fot=9999&fos=DEMO-PAGE&url=https%3A%2F%2Fwww.lindybop.co.uk%2FDEMO-champagne%2Dsequin%2Dswing"
+    },
+    {
+      "id": "emerald-party-tea",
+      "name": "Emerald Party Tea Dress",
+      "retailer": "eshakti",
+      "era": "1950s",
+      "sizeTag": "Sizes 0–36W",
+      "demoPrice": 84,
+      "why": "A clean tea-length shape that works for dinners, weddings, and semi-formal events.",
+      "image": "/assets/products/emerald-party-tea.webp",
+      "pages": [
+        "special-event"
+      ],
+      "sections": [
+        "special-event:versatile"
+      ],
+      "url": "https://www.anrdoezrs.net/click-DEMO-VOM?url=https%3A%2F%2Fwww.eshakti.com%2FDEMO-emerald%2Dparty%2Dtea&sid=vom-DEMO-PAGE"
+    },
+    {
+      "id": "polka-dot-swing",
+      "name": "Polka Dot Swing Dress",
+      "retailer": "retro-stage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 3X",
+      "demoPrice": 69,
+      "why": "Full skirt, useful pockets, and enough structure through the bodice.",
+      "image": "/assets/products/polka-dot-swing.webp",
+      "pages": [
+        "home",
+        "swing"
+      ],
+      "sections": [
+        "swing:polka",
+        "swing:pockets",
+        "swing:under75"
+      ],
+      "url": "https://www.retro-stage.com/products/DEMO-polka-dot-swing?ref=DEMO-VOM&utm_source=vintageovermedium&utm_medium=affiliate&utm_campaign=DEMO-PAGE"
+    },
+    {
+      "id": "navy-shirtwaist",
+      "name": "Navy Shirtwaist Dress",
+      "retailer": "eshakti",
+      "era": "1940s",
+      "sizeTag": "Sizes 0–36W",
+      "demoPrice": 75,
+      "why": "Buttons that sit flat and a belt you can actually adjust.",
+      "image": "/assets/products/navy-shirtwaist.webp",
+      "pages": [
+        "home",
+        "swing"
+      ],
+      "sections": [
+        "swing:solids",
+        "swing:pockets"
+      ],
+      "url": "https://www.anrdoezrs.net/click-DEMO-VOM?url=https%3A%2F%2Fwww.eshakti.com%2FDEMO-navy%2Dshirtwaist&sid=vom-DEMO-PAGE"
+    },
+    {
+      "id": "rose-print-tea-dress",
+      "name": "Rose Print Tea Dress",
+      "retailer": "unique-vintage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 74,
+      "why": "Soft floral print, defined waist, and a skirt that never fights your hips.",
+      "image": "/assets/products/rose-print-tea-dress.webp",
+      "pages": [
+        "home",
+        "swing"
+      ],
+      "sections": [
+        "swing:floral",
+        "swing:under75"
+      ],
+      "url": "https://unique-vintage.sjv.io/DEMO-VOM?u=https%3A%2F%2Fwww.unique-vintage.com%2Fproducts%2FDEMO-rose%2Dprint%2Dtea%2Ddress&subid1=vom-DEMO-PAGE"
+    },
+    {
+      "id": "gingham-day-swing",
+      "name": "Gingham Day Swing Dress",
+      "retailer": "retro-stage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 66,
+      "why": "Crisp gingham, easy pockets, and enough skirt for a light petticoat.",
+      "image": "/assets/products/gingham-day-swing.webp",
+      "pages": [
+        "swing"
+      ],
+      "sections": [
+        "swing:gingham",
+        "swing:pockets",
+        "swing:under75"
+      ],
+      "url": "https://www.retro-stage.com/products/DEMO-gingham-day-swing?ref=DEMO-VOM&utm_source=vintageovermedium&utm_medium=affiliate&utm_campaign=DEMO-PAGE"
+    },
+    {
+      "id": "teal-pocket-swing",
+      "name": "Teal Pocket Swing Dress",
+      "retailer": "eshakti",
+      "era": "1950s",
+      "sizeTag": "Sizes 0–36W",
+      "demoPrice": 88,
+      "why": "Simple solid color, deep pockets, and a waist seam that is easy to belt.",
+      "image": "/assets/products/teal-pocket-swing.webp",
+      "pages": [
+        "swing"
+      ],
+      "sections": [
+        "swing:solids",
+        "swing:pockets"
+      ],
+      "url": "https://www.anrdoezrs.net/click-DEMO-VOM?url=https%3A%2F%2Fwww.eshakti.com%2FDEMO-teal%2Dpocket%2Dswing&sid=vom-DEMO-PAGE"
+    },
+    {
+      "id": "black-classic-swing",
+      "name": "Black Classic Swing Dress",
+      "retailer": "lindy-bop",
+      "era": "1950s",
+      "sizeTag": "Sizes to 6XL",
+      "demoPrice": 62,
+      "why": "The easy black dress: full skirt, clean neckline, and room through the hips.",
+      "image": "/assets/products/black-classic-swing.webp",
+      "pages": [
+        "swing"
+      ],
+      "sections": [
+        "swing:solids",
+        "swing:under75"
+      ],
+      "url": "https://track.flexlinkspro.com/g.ashx?foid=DEMO&trid=DEMO-VOM&foc=16&fot=9999&fos=DEMO-PAGE&url=https%3A%2F%2Fwww.lindybop.co.uk%2FDEMO-black%2Dclassic%2Dswing"
+    },
+    {
+      "id": "cherry-floral-swing",
+      "name": "Cherry Floral Swing Dress",
+      "retailer": "unique-vintage",
+      "era": "1950s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 96,
+      "why": "A bold floral that still reads vintage, with stretch where the bodice needs it.",
+      "image": "/assets/products/cherry-floral-swing.webp",
+      "pages": [
+        "swing"
+      ],
+      "sections": [
+        "swing:floral"
+      ],
+      "url": "https://unique-vintage.sjv.io/DEMO-VOM?u=https%3A%2F%2Fwww.unique-vintage.com%2Fproducts%2FDEMO-cherry%2Dfloral%2Dswing&subid1=vom-DEMO-PAGE"
+    },
+    {
+      "id": "beaded-fringe-gatsby",
+      "name": "Beaded Fringe Gatsby Dress",
+      "retailer": "retro-stage",
+      "era": "1920s",
+      "sizeTag": "Sizes to 24",
+      "demoPrice": 89,
+      "why": "Easy through the waist, with movement where a party dress should have it.",
+      "image": "/assets/products/beaded-fringe-gatsby.webp",
+      "pages": [
+        "home",
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:beaded",
+        "gatsby:fringe",
+        "gatsby:under100"
+      ],
+      "url": "https://www.retro-stage.com/products/DEMO-beaded-fringe-gatsby?ref=DEMO-VOM&utm_source=vintageovermedium&utm_medium=affiliate&utm_campaign=DEMO-PAGE"
+    },
+    {
+      "id": "black-gold-flapper",
+      "name": "Black & Gold Flapper Dress",
+      "retailer": "unique-vintage",
+      "era": "1920s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 109,
+      "why": "A loose 1920s line with enough beading to feel dressed without feeling stiff.",
+      "image": "/assets/products/black-gold-flapper.webp",
+      "pages": [
+        "home",
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:beaded",
+        "gatsby:blackgold"
+      ],
+      "url": "https://unique-vintage.sjv.io/DEMO-VOM?u=https%3A%2F%2Fwww.unique-vintage.com%2Fproducts%2FDEMO-black%2Dgold%2Dflapper&subid1=vom-DEMO-PAGE"
+    },
+    {
+      "id": "champagne-fringe-flapper",
+      "name": "Champagne Fringe Flapper",
+      "retailer": "lindy-bop",
+      "era": "1920s",
+      "sizeTag": "Sizes to 5XL",
+      "demoPrice": 79,
+      "why": "Layers of fringe do the work while the body stays comfortably loose.",
+      "image": "/assets/products/champagne-fringe-flapper.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:fringe",
+        "gatsby:under100"
+      ],
+      "url": "https://track.flexlinkspro.com/g.ashx?foid=DEMO&trid=DEMO-VOM&foc=16&fot=9999&fos=DEMO-PAGE&url=https%3A%2F%2Fwww.lindybop.co.uk%2FDEMO-champagne%2Dfringe%2Dflapper"
+    },
+    {
+      "id": "emerald-cap-sleeve-deco",
+      "name": "Emerald Cap-Sleeve Deco Dress",
+      "retailer": "retro-stage",
+      "era": "1920s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 116,
+      "why": "Cap sleeves add coverage while the dropped line keeps the waist forgiving.",
+      "image": "/assets/products/emerald-cap-sleeve-deco.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:beaded",
+        "gatsby:sleeves"
+      ],
+      "url": "https://www.retro-stage.com/products/DEMO-emerald-cap-sleeve-deco?ref=DEMO-VOM&utm_source=vintageovermedium&utm_medium=affiliate&utm_campaign=DEMO-PAGE"
+    },
+    {
+      "id": "midnight-maxi-gatsby",
+      "name": "Midnight Gatsby Maxi Gown",
+      "retailer": "unique-vintage",
+      "era": "1920s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 119,
+      "why": "Long, fluid, and cut to skim instead of squeeze through the middle.",
+      "image": "/assets/products/midnight-maxi-gatsby.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:maxi",
+        "gatsby:blackgold"
+      ],
+      "url": "https://unique-vintage.sjv.io/DEMO-VOM?u=https%3A%2F%2Fwww.unique-vintage.com%2Fproducts%2FDEMO-midnight%2Dmaxi%2Dgatsby&subid1=vom-DEMO-PAGE"
+    },
+    {
+      "id": "silver-cap-sleeve-gatsby",
+      "name": "Silver Cap-Sleeve Gatsby Dress",
+      "retailer": "eshakti",
+      "era": "1920s",
+      "sizeTag": "Sizes 0–36W",
+      "demoPrice": 94,
+      "why": "A softer take on sparkle with sleeves and enough ease for sitting and dancing.",
+      "image": "/assets/products/silver-cap-sleeve-gatsby.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:sleeves",
+        "gatsby:under100"
+      ],
+      "url": "https://www.anrdoezrs.net/click-DEMO-VOM?url=https%3A%2F%2Fwww.eshakti.com%2FDEMO-silver%2Dcap%2Dsleeve%2Dgatsby&sid=vom-DEMO-PAGE"
+    },
+    {
+      "id": "black-fringe-midi",
+      "name": "Black Fringe Midi Dress",
+      "retailer": "retro-stage",
+      "era": "1920s",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 84,
+      "why": "Black fringe keeps the look classic and gives movement without extra volume.",
+      "image": "/assets/products/black-fringe-midi.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:fringe",
+        "gatsby:blackgold",
+        "gatsby:under100"
+      ],
+      "url": "https://www.retro-stage.com/products/DEMO-black-fringe-midi?ref=DEMO-VOM&utm_source=vintageovermedium&utm_medium=affiliate&utm_campaign=DEMO-PAGE"
+    },
+    {
+      "id": "white-petticoat",
+      "name": "Tulle Petticoat (Plus Sizes)",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "Plus sizes",
+      "demoPrice": 32,
+      "why": "The finishing touch that turns a swing skirt into a proper 1950s shape.",
+      "image": "/assets/products/white-petticoat.webp",
+      "pages": [
+        "special-event",
+        "swing"
+      ],
+      "sections": [
+        "special-event:accessory",
+        "swing:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-white-petticoat"
+    },
+    {
+      "id": "faux-fur-stole",
+      "name": "Faux-Fur Stole",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "One size / plus-friendly",
+      "demoPrice": 38,
+      "why": "Adds Old Hollywood texture without changing how the dress itself fits.",
+      "image": "/assets/products/faux-fur-stole.webp",
+      "pages": [
+        "special-event",
+        "gatsby"
+      ],
+      "sections": [
+        "special-event:accessory",
+        "gatsby:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-faux-fur-stole"
+    },
+    {
+      "id": "cropped-cardigan",
+      "name": "Cropped Retro Cardigan",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "Sizes to 4X",
+      "demoPrice": 36,
+      "why": "Hits close to the natural waist so it works with full skirts instead of hiding them.",
+      "image": "/assets/products/cropped-cardigan.webp",
+      "pages": [
+        "special-event",
+        "swing"
+      ],
+      "sections": [
+        "special-event:accessory",
+        "swing:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-cropped-cardigan"
+    },
+    {
+      "id": "retro-tstrap-heels",
+      "name": "Low T-Strap Heels",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "Wide sizes available",
+      "demoPrice": 39,
+      "why": "A low vintage-shaped heel that works with both swing and Gatsby looks.",
+      "image": "/assets/products/retro-tstrap-heels.webp",
+      "pages": [
+        "special-event",
+        "gatsby"
+      ],
+      "sections": [
+        "special-event:accessory",
+        "gatsby:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-retro-tstrap-heels"
+    },
+    {
+      "id": "pearl-headband",
+      "name": "Pearl Deco Headband",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "Adjustable",
+      "demoPrice": 22,
+      "why": "An easy 1920s signal without turning the outfit into a costume.",
+      "image": "/assets/products/pearl-headband.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-pearl-headband"
+    },
+    {
+      "id": "long-pearls",
+      "name": "Long Faux-Pearl Strand",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "60-inch strand",
+      "demoPrice": 18,
+      "why": "Long enough to double or knot for the classic 1920s line.",
+      "image": "/assets/products/long-pearls.webp",
+      "pages": [
+        "gatsby"
+      ],
+      "sections": [
+        "gatsby:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-long-pearls"
+    },
+    {
+      "id": "waist-belt",
+      "name": "Skinny Vintage Waist Belt",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "Plus sizes",
+      "demoPrice": 19,
+      "why": "Defines the natural waist without adding bulk under a cardigan.",
+      "image": "/assets/products/waist-belt.webp",
+      "pages": [
+        "swing"
+      ],
+      "sections": [
+        "swing:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-waist-belt"
+    },
+    {
+      "id": "hair-flower",
+      "name": "Vintage Hair Flower",
+      "retailer": "amazon",
+      "era": "Accessory",
+      "sizeTag": "Clip-in",
+      "demoPrice": 16,
+      "why": "A small finishing detail that works with special events and 1950s looks.",
+      "image": "/assets/products/hair-flower.webp",
+      "pages": [
+        "special-event",
+        "swing"
+      ],
+      "sections": [
+        "special-event:accessory",
+        "swing:accessory"
+      ],
+      "url": "https://www.amazon.com/dp/DEMO000000?tag=vintageoverme-20-DEMO&ascsubtag=vom-DEMO-PAGE-hair-flower"
+    }
+  ]
+}

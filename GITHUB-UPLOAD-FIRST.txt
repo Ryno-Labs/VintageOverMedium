@@ -1,0 +1,17 @@
+GITHUB PAGES UPLOAD
+
+Upload the CONTENTS of this package to the repository root.
+After upload, you should see index.html, assets/, special-event-dresses/, etc. immediately at the top level of the repo.
+
+CORRECT:
+repo/
+  index.html
+  assets/
+  special-event-dresses/
+
+WRONG:
+repo/
+  vintageovermedium-github-v6-ROOT-READY/
+    index.html
+
+GitHub Pages setting: Settings > Pages > Deploy from a branch > main > /(root).
